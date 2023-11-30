@@ -1,3 +1,4 @@
+![Screenshot (7)](https://github.com/syafiqanugrah/sistem-akuntansi/assets/152132797/8fd40554-3931-4e5c-9cbf-af6343ad3d05)
 <p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
